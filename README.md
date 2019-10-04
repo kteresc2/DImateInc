@@ -1,0 +1,2 @@
+# DimateInc
+GitHub Pages
